@@ -6,6 +6,6 @@
 
 :rocket: No momento estou estudando:
 
-• Desenvolvimento Web, focando nas tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC e WordPress.
+• Desenvolvimento Web.
 
- • Desenvolvimento Android com Java e Kotlin.
+ • Desenvolvimento Mobile.
