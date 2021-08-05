@@ -1,6 +1,6 @@
-### Olá!! Sou a Laura, entusiasta de tecnologia
+### Hello Word, I'm Laura Naville
 
-<div  align="center">
+<div >
   <a href="https://github.com/LauraNaville">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LauraNaville&show_icons=true&theme=radical&include_all_commits=true&count_private=true&text_color=F0FFFF&title_color=00FFFF&icon_color=DDA0DD"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraNaville&layout=compact&langs_count=7&theme=radical&text_color=F0FFFF&title_color=00FFFF"/>
@@ -18,6 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="CSS" height="30" width="30" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg>
   
 </div>
   
