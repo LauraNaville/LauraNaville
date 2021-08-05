@@ -2,8 +2,8 @@
 
 <div  align="center">
   <a href="https://github.com/LauraNaville">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraNaville&show_icons=true&theme=radical&include_all_commits=true&count_private=true&text_color=F0FFFF&title_color=00FFFF&icon_color=DDA0DD"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraNaville&layout=compact&langs_count=7&theme=radical&text_color=F0FFFF&title_color=00FFFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LauraNaville&show_icons=true&theme=radical&include_all_commits=true&count_private=true&text_color=F0FFFF&title_color=00FFFF&icon_color=DDA0DD"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraNaville&layout=compact&langs_count=7&theme=radical&text_color=F0FFFF&title_color=00FFFF"/>
 </div>
   
 <div align="center">
