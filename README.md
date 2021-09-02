@@ -1,4 +1,4 @@
-## Hello Word, I'm Laura Naville          
+## Hello Word, I'm Laura Naville 🚀    
 
 <div align="center">
   <a href="https://github.com/LauraNaville">
